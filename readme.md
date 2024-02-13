@@ -12,7 +12,9 @@ Daniel Eid's github can be found [here](https://github.com/danieleid317)
 
 Clone the repository :
 
-```git clone git@github.com:MariusAAROS/Simplified-Deep-Reinforcement-Learning-From-Human-Preference--Daniel-Eid-.git```
+```
+git clone git@github.com:MariusAAROS/Simplified-Deep-Reinforcement-Learning-From-Human-Preference--Daniel-Eid-.git
+```
 
 Think about creating a virtual environment with a compatible version of Python (see ```requirements.txt```). 
 
@@ -23,5 +25,7 @@ source myenv/Scripts/activate
 
 Install the required packages :
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
